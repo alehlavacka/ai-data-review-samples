@@ -2,7 +2,7 @@
 
 This repository contains simple examples of AI-generated text evaluation and annotation.
 
-The goal is to demonstrate structured review, clarity improvement, and basic labeling logic.
+I created this repository to show how I review and improve AI-generated content in a structured way.
 
 ---
 
@@ -35,7 +35,7 @@ The goal is to demonstrate structured review, clarity improvement, and basic lab
 
 **Conclusion:**
 
-The model tends to generate safe but generic statements without contextual depth.
+The outputs are correct but too general. They lack examples and specific details.
 
 ---
 
@@ -68,4 +68,4 @@ The text provides general information about AI usage in marketing without persua
 
 ---
 
-Created as part of professional development in AI data review and structured annotation workflows.
+Created as part of my transition into AI data review and labeling work.
